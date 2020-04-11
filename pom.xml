@@ -17,10 +17,10 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<sonar.projectKey>codelovin-projects_springboot-sonar-cloud-demo</sonar.projectKey>
-		<sonar.organization>codelovin-projects</sonar.organization>
+		<sonar.projectKey>xxxxxxxxxxxx</sonar.projectKey>
+		<sonar.organization>xxxxxxxxx</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>a5a1fa2659c535a355e9bb97b8fa7d5231e75188</sonar.login>
+		<sonar.login>xxxxxxxxxx</sonar.login>
 	</properties>
 
 	<dependencies>
