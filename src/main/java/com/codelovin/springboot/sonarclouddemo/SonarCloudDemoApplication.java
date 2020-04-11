@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SonarCloudDemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("HARD_CODED_STRING");
+		System.err.println("HARD_CODED_STRING");
 		SpringApplication.run(SonarCloudDemoApplication.class, args);
 	}
 
