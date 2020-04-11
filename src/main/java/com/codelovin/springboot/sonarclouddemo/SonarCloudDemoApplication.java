@@ -12,6 +12,7 @@ public class SonarCloudDemoApplication {
 	
 	public static void main(String[] args) {
 		logger.info("HARD_CODED_STRING");
+		logger.info("HARD_CODED_STRING");
 		SpringApplication.run(SonarCloudDemoApplication.class, args);
 	}
 
