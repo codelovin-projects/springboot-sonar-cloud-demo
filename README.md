@@ -7,7 +7,7 @@
 	```
 	<properties>
 		<sonar.projectKey>YOUR_PROJECT_KEY</sonar.projectKey>
-		<sonar.organization>YOUR_ORGANIZZATION_NAME</sonar.organization>
+		<sonar.organization>YOUR_ORGANIZATION_NAME</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.login>GENERATED_TOKEN</sonar.login>
 	</properties>
