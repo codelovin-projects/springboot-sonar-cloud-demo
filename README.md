@@ -1,6 +1,6 @@
 
 
-- Step-1: Visit sonarcloud.io and configure your account.
+- Step-1: Visit https://sonarcloud.io and configure your account.
 - Step-2: Connect the repository.
 - Step-3: Generate token (https://sonarcloud.io/account/security/)
 - Step-4: Add the following snippet in your pom.xml
