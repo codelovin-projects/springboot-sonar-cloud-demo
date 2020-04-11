@@ -20,6 +20,6 @@
 	```
 - Step-8: After verification, visit your projects in sonarcloud (https://sonarcloud.io/projects). You will see the SonarQube report. For example, the SonarQube report for this git repo is located at the below address:
   	```
-	SonarQube Report >> https://sonarcloud.io/organizations/codelovin-projects/projects
+	SonarQube Report >> [https://sonarcloud.io/organizations/codelovin-projects/projects] (https://sonarcloud.io/organizations/codelovin-projects/projects)
   	```
   
